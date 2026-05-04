@@ -84,5 +84,4 @@ License
 MIT
 
 ```bash
-cat README.md | head -20
 
